@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Emsi\s3\JEE\TPs\ClientWS_.Net\ClientWS_.Net\bin\Debug\ClientWS_.Net.exe.config
+C:\Users\user\Desktop\Emsi\s3\JEE\TPs\ClientWS_.Net\ClientWS_.Net\bin\Debug\ClientWS_.Net.exe
+C:\Users\user\Desktop\Emsi\s3\JEE\TPs\ClientWS_.Net\ClientWS_.Net\bin\Debug\ClientWS_.Net.pdb
+C:\Users\user\Desktop\Emsi\s3\JEE\TPs\ClientWS_.Net\ClientWS_.Net\obj\Debug\ClientWS_.Net.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Emsi\s3\JEE\TPs\ClientWS_.Net\ClientWS_.Net\obj\Debug\ClientWS_.Net.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Emsi\s3\JEE\TPs\ClientWS_.Net\ClientWS_.Net\obj\Debug\ClientWS_.Net.exe
+C:\Users\user\Desktop\Emsi\s3\JEE\TPs\ClientWS_.Net\ClientWS_.Net\obj\Debug\ClientWS_.Net.pdb
